@@ -1,0 +1,2 @@
+1. Connect white noise source to filter input.
+2. Connect filter output to spectrum analyzer input.
