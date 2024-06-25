@@ -1,0 +1,2 @@
+From OSC1 SR = 20v/2.5uS = 8V/uS.
+also the down slope is steeper at 10v/uS.

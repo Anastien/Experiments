@@ -1,0 +1,5 @@
+Using MC33078 in unity gain.
+VCC+= 13v
+VCC- = 0V
+
+V
